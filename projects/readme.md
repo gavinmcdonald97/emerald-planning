@@ -1,3 +1,4 @@
+![a greem gemstone with the word team carved out of it. team emerald.](/images/emerald.png)
 # projects by team emerald
 
 ## here are the planning documents for our projects.
