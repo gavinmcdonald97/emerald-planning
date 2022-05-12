@@ -1,3 +1,5 @@
+![a greem gemstone with the word team carved out of it. team emerald.](/images/emerald.png)
+
 # project 0: landing page
 
 **best practices**

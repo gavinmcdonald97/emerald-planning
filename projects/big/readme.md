@@ -1,3 +1,5 @@
+![a greem gemstone with the word team carved out of it. team emerald.](/images/emerald.png)
+
 # big projects index
 
 ## 0 - blackjack

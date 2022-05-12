@@ -1,4 +1,6 @@
-blackjack: a simple card game.
+![a greem gemstone with the word team carved out of it. team emerald.](/images/emerald.png)
+
+# blackjack: a simple card game.
 
 - database
 - webserver
@@ -9,7 +11,7 @@ blackjack: a simple card game.
 - multiplayer
 
 
-# project 0: blackjack
+## project 0: blackjack
 
 **best practices**
 
